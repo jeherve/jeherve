@@ -13,7 +13,7 @@ WordPress, TV Series, music, and kids. I think that's probably the best way to d
 
 *********
 
-### On the blog
+### On my blog
 
 Here is my take on an important part of a developer’s job, code reviews: [The Power of a Conversational Code Review Culture](https://jeremy.hu/the-power-of-a-conversational-code-review-culture/). 👓
 
