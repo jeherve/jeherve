@@ -17,7 +17,8 @@ WordPress, TV Series, music, and kids. I think that's probably the best way to d
 
 Here is my take on an important part of a developer’s job, code reviews: [The Power of a Conversational Code Review Culture](https://jeremy.hu/the-power-of-a-conversational-code-review-culture/). 👓
 
-I also wrote about JavaScript GitHub Actions:
+I also write about JavaScript GitHub Actions:
 
 - [Intro to building our own JavaScript Action inside an existing project, to automatically add labels to newly opened issues.](https://jeremy.hu/github-actions-build-javascript-action-part-1/)
 - [Leverage GitHub Issue forms and build your own GitHub Action to automate priority assignment on your issues.](https://jeremy.hu/github-actions-build-javascript-action-part-2/)
+- [Build your own GitHub Action to automatically add PRs to specific columns on a GitHub Project Board](https://jeremy.hu/github-actions-javascript-action-part-3/)
