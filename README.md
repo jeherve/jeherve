@@ -21,4 +21,4 @@ I also write about JavaScript GitHub Actions:
 
 - [Intro to building our own JavaScript Action inside an existing project, to automatically add labels to newly opened issues.](https://jeremy.hu/github-actions-build-javascript-action-part-1/)
 - [Leverage GitHub Issue forms and build your own GitHub Action to automate priority assignment on your issues.](https://jeremy.hu/github-actions-build-javascript-action-part-2/)
-- [Build your own GitHub Action to automatically add PRs to specific columns on a GitHub Project Board](https://jeremy.hu/github-actions-javascript-action-part-3/)
+- [Build your own GitHub Action to automatically add PRs to specific columns on a GitHub Project Board.](https://jeremy.hu/github-actions-javascript-action-part-3/)
