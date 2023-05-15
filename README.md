@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-WordPress, TV Series, music, and kids. I think that's probably the best way to define me in a few words. 🙂 I try to keep up with issues in all my repos, so if you have questions about some of my work, don't hesitate to reach out.
+WordPress, board games, TV Series, music, and kids. I think that's probably the best way to define me in a few words. 🙂 I try to keep up with issues in all my repos, so if you have questions about some of my work, don't hesitate to reach out.
 
 *********
 
@@ -10,7 +10,7 @@ WordPress, TV Series, music, and kids. I think that's probably the best way to d
 - ⌨️ I blog on [jeremy.hu](https://jeremy.hu).
 - 🦥 You can follow me on the Fediverse at <a rel="me" href="https://fedi.jeremy.hu/@jeremy">`@jeremy@fedi.jeremy.hu`</a>
 - 🎵 I share the **music** that keeps me in the zone in [my “On Repeat Today” series](https://jeremy.hu/tag/on-repeat-today/).
-- 📺 I watch quite a bit of **TV series**! [I blog about shows I like here](https://jeremy.hu/category/culture/tv-culture/), and you can see [what I've recently watched here](https://trakt.tv/users/jeherve/history).
+- 📺 I watch quite a bit of **TV series**! [I sometimes blog about shows I like here](https://jeremy.hu/category/culture/tv-culture/), and you can see [what I've recently watched here](https://trakt.tv/users/jeherve/history).
 
 *********
 
