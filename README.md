@@ -8,7 +8,7 @@ WordPress, board games, TV Series, music, and kids. I think that's probably the 
 - 🚀 I help maintain the **Jetpack monorepo**. https://github.com/Automattic/Jetpack/
 - 🅦 I work with **WordPress**. You can [check some of my plugins here](https://profiles.wordpress.org/jeherve/#content-plugins).
 - ⌨️ I blog on [jeremy.hu](https://jeremy.hu).
-- 🦥 You can follow me on the Fediverse at <a rel="me" href="https://fedi.jeremy.hu/@jeremy">`@jeremy@fedi.jeremy.hu`</a>
+- 🦥 You can follow me on the Fediverse at <a rel="me" href="https://herve.bzh/author/jeremy/">`@jeremy@herve.bzh`</a>
 - 🎵 I share the **music** that keeps me in the zone in [my “On Repeat Today” series](https://jeremy.hu/tag/on-repeat-today/).
 - 📺 I watch quite a bit of **TV series**! [I sometimes blog about shows I like here](https://jeremy.hu/category/culture/tv-culture/), and you can see [what I've recently watched here](https://trakt.tv/users/jeherve/history).
 
