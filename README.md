@@ -5,7 +5,7 @@ WordPress, board games, TV Series, music, and kids. I think that's probably the 
 *********
 
 - 💻 I work at **@Automattic**
-- 🚀 I help maintain the **Jetpack monorepo**. https://github.com/Automattic/Jetpack/
+- 🚀 I help build a calm, open platform for creators and bloggers. You'll find some of my work in [Jetpack](https://github.com/Automattic/Jetpack/) and [Calypso](https://github.com/Automattic/wp-calypso/).
 - 🅦 I work with **WordPress**. You can [check some of my plugins here](https://profiles.wordpress.org/jeherve/#content-plugins).
 - ⌨️ I blog on [herve.bzh](https://herve.bzh).
 - 🦥 You can follow me on the Fediverse at <a rel="me" href="https://herve.bzh/author/jeremy/">`@jeremy@herve.bzh`</a>
